@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "HCSHOjWlb2AnDRZwldVPzkEY/LcWZX/qtKPzjYcuOxE+k9ma873VXA3dar2oAO5z1YOETm63TEzi9c59QqEr8g==",
+  "success": true,
+  "projectFilePath": "F:\\Aps .Net Core\\Atlas Projects\\DatabaseTables\\Tables.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.0\\microsoft.aspnetcore.http.features.5.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.0\\microsoft.extensions.primitives.5.0.0.nupkg.sha512",
+    "C:\\Users\\pc\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

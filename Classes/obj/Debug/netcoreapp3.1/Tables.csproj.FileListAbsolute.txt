@@ -1,0 +1,4 @@
+F:\Aps .Net Core\Atlas Projects\DatabaseTables\bin\Debug\netcoreapp3.1\Tables.exe
+F:\Aps .Net Core\Atlas Projects\DatabaseTables\obj\Debug\netcoreapp3.1\Tables.csprojAssemblyReference.cache
+F:\Aps .Net Core\Atlas Projects\DatabaseTables\obj\Debug\netcoreapp3.1\Tables.AssemblyInfoInputs.cache
+F:\Aps .Net Core\Atlas Projects\DatabaseTables\obj\Debug\netcoreapp3.1\Tables.AssemblyInfo.cs
